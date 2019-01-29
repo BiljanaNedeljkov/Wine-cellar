@@ -1,0 +1,8 @@
+Instalacija (samo jednom):
+- razmotati
+- tamo gde je package.json
+	- npm install
+	
+Pokretanje (svaki put kada radite sa serverom):
+	- npm start
+	- nemojte gasiti tu komandnu liniju sve dok radite sa serverom
